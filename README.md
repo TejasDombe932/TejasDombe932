@@ -7,7 +7,7 @@
 - 🎓 I’m a **Final Year Computer Engineering Student** passionate about learning and building impactful projects.  
 - 💡 I love exploring **Web Development, Java, and Full Stack Technologies**.  
 - 🧠 Always open to learning new frameworks and tools to enhance my development skills.  
-- 📫 Reach me at: **tejashdombe932@gmail.com**  
+- 📫 Reach me at: **tejashdombe@gmail.com**  
 - 🌐 Portfolio: *Coming Soon...*
 
 ---
